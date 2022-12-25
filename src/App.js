@@ -74,3 +74,4 @@ function App() {
 export default App;
 
 //app.js
+//component
